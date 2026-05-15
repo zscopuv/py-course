@@ -38,14 +38,14 @@ This course takes you from **zero to confident** in Python. Each lesson is desig
 
 | Lesson | Topic                              | File |
 |--------|------------------------------------|------|
-| 01     | Setup & First Steps                | [1. Setup & First Steps.md](1.%20Setup%20&%20First%20Steps.md) |
-| 02     | Variables & Data Types             | [2. Variables & Data Types.md](2.%20Variables%20&%20Data%20Types.md) |
-| 03     | Operators & User Input             | [3. Operators & User Input.md](3.%20Operators%20&%20User%20Input.md) |
-| 04     | Conditionals (if / elif / else)    | [4. Conditionals.md](4.%20Conditionals.md) |
-| 05     | Loops (while & for)                | [5. Loops.md](5.%20Loops.md) |
-| 06     | Functions                          | [6. Functions.md](6.%20Functions.md) |
-| 07     | Lists & Tuples                     | [7. Lists & Tuples.md](7.%20Lists%20&%20Tuples.md) |
-| 08     | Dictionaries & Sets                | [8. Dictionaries & Sets.md](8.%20Dictionaries%20&%20Sets.md) |
+| 01     | Setup & First Steps                | [1. Setup & First Steps.md](01.%20Setup%20&%20First%20Steps.md) |
+| 02     | Variables & Data Types             | [2. Variables & Data Types.md](02.%20Variables%20&%20Data%20Types.md) |
+| 03     | Operators & User Input             | [3. Operators & User Input.md](03.%20Operators%20&%20User%20Input.md) |
+| 04     | Conditionals (if / elif / else)    | [4. Conditionals.md](04.%20Conditionals.md) |
+| 05     | Loops (while & for)                | [5. Loops.md](05.%20Loops.md) |
+| 06     | Functions                          | [6. Functions.md](06.%20Functions.md) |
+| 07     | Lists & Tuples                     | [7. Lists & Tuples.md](07.%20Lists%20&%20Tuples.md) |
+| 08     | Dictionaries & Sets                | [8. Dictionaries & Sets.md](08.%20Dictionaries%20&%20Sets.md) |
 
 ---
 
