@@ -1,4 +1,5 @@
-# Python Course
+![alt text](thumbnail.jpg)
+
 **A Complete Python Course**  
 *From Zero to Hero.*
 
