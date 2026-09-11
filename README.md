@@ -16,9 +16,9 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 
 ## 🎯 Course Progress
 
-- **Beginner Level** → Completed (Lessons 1–8)
-- **Intermediate Beginner Level** → Completed (Lessons 9–19)
-- **Intermediate Level** → Ready to Start (Lessons 20–26)
+- **Beginner Level** → Available (Lessons 1–8)
+- **Intermediate Beginner Level** → Available (Lessons 9–19)
+- **Intermediate Level** → Available (Lessons 20–26)
 
 ---
 
@@ -41,7 +41,7 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 
 | Lesson | Topic                                      | File |
 |--------|--------------------------------------------|------|
-| 09     | File Handling + Error Handling             | [09 Files & Errors.md](09%20Files%20&%20Errors.md) |
+| 09     | File Handling + Error Handling             | [09. Files & Errors.md](09.%20Files%20&%20Errors.md) |
 | 10     | Modules & Packages                         | [10. Modules & Packages.md](10.%20Modules%20&%20Packages.md) |
 | 11     | OOP – Part 1                               | [11. OOP Part 1.md](11.%20OOP%20Part%201.md) |
 | 12     | OOP – Part 2                               | [12. OOP Part 2.md](12.%20OOP%20Part%202.md) |
@@ -62,9 +62,9 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 | 20     | Clean Code & PEP 8                                 | [20. Clean Code & PEP 8.md](20.%20Clean%20Code%20&%20PEP%208.md) |
 | 21     | Debugging & Error Handling Mastery                 | [21. Debugging & Error Handling Mastery.md](21.%20Debugging%20&%20Error%20Handling%20Mastery.md) |
 | 22     | Databases with SQLite                              | [22. Databases with SQLite.md](22.%20Databases%20with%20SQLite.md) |
-| 23     | Introduction to Web Development with Flask         | [23. Introduction to Web Development with Flask.md](24.%20Flask%20&%20UI.md) |
-| 24     | Flask – Templates, Forms & User Interaction        | [24. Flask – Templates, Forms & User Interaction.md](24.%20Flask%20–%20Templates%2C%20Forms%20&%20User%20Interaction.md) |
-| 25     | APIs (Building & Consuming)                        | [25. APIs (Building & Consuming).md](25.%20APIs%20(Building%20&%20Consuming).md) |
+| 23     | Introduction to Web Development with Flask         | [23. Introduction to Web Development with Flask.md](23.%20Introduction%20to%20Web%20Development%20with%20Flask.md) |
+| 24     | Flask – Templates, Forms & User Interaction        | [24. Flask – Templates, Forms & User Interaction.md](24.%20Flask%20%E2%80%93%20Templates%2C%20Forms%20%26%20User%20Interaction.md) |
+| 25     | APIs (Building & Consuming)                        | [25. APIs (Building & Consuming).md](25.%20APIs%20%28Building%20%26%20Consuming%29.md) |
 | 26     | Automated Testing with pytest                      | [26. Automated Testing with pytest.md](26.%20Automated%20Testing%20with%20pytest.md) |
 
 ---
@@ -79,7 +79,7 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 
 ---
 
-> **Last Updated:** 15 May 2026
+> **Last Updated:** 11 September 2026
 
 > If you find any issue / mistake, please create a pull request or open an issue on GitHub.
 ---
