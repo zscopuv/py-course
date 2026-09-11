@@ -44,7 +44,7 @@ def check_python_blocks(markdown_file: Path) -> list[str]:
 
 
 def main() -> int:
-    markdown_files = sorted(ROOT.glob("*.md"))
+    markdown_files = sorted(ROOT.rglob("*.md"))
     errors = [error for file in markdown_files for error in check_links(file)]
     errors.extend(error for file in markdown_files for error in check_python_blocks(file))
     if errors:
