@@ -7,10 +7,10 @@
 
 ## 📖 Course Overview
 
-This course takes you from **zero knowledge** to **confident intermediate** Python programmer. Each lesson includes clear explanations, practical code examples, notes, and exercises.
+This course takes you from **zero knowledge** to a **confident expert-level foundation** in Python. Each lesson includes clear explanations, practical code examples, notes, and exercises.
 **Yes, AI has been used** to help create this course, but it’s designed to be a comprehensive learning experience for humans. The content is structured to ensure you understand the concepts and can apply them effectively.
 
-**Total Lessons**: 35
+**Total Lessons**: 50
 
 ---
 
@@ -20,6 +20,7 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 - **Intermediate Beginner Level** → Available (Lessons 9–19)
 - **Intermediate Level** → Available (Lessons 20–26)
 - **Advanced Level** → Available (Lessons 27–35)
+- **Expert Course** → Available (Lessons 36–50)
 
 ---
 
@@ -83,6 +84,28 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 | 33 | Asynchronous Programming with asyncio | [33. Asynchronous Programming with asyncio.md](33.%20Asynchronous%20Programming%20with%20asyncio.md) |
 | 34 | Packaging and Publishing Python Projects | [34. Packaging and Publishing Python Projects.md](34.%20Packaging%20and%20Publishing%20Python%20Projects.md) |
 | 35 | Final Project – Personal Dashboard | [35. Final Project – Personal Dashboard.md](35.%20Final%20Project%20%E2%80%93%20Personal%20Dashboard.md) |
+
+---
+
+## 📋 Table of Contents - Expert Course
+
+| Lesson | Topic | File |
+|--------|-------|------|
+| 36 | The Python Data Model & Descriptors | [36. The Python Data Model & Descriptors.md](36.%20The%20Python%20Data%20Model%20%26%20Descriptors.md) |
+| 37 | Iterators, Generators & Coroutines | [37. Iterators, Generators & Coroutines.md](37.%20Iterators%2C%20Generators%20%26%20Coroutines.md) |
+| 38 | Decorators & Context Managers | [38. Decorators & Context Managers.md](38.%20Decorators%20%26%20Context%20Managers.md) |
+| 39 | Expert Type Hints, Generics & Protocols | [39. Expert Type Hints, Generics & Protocols.md](39.%20Expert%20Type%20Hints%2C%20Generics%20%26%20Protocols.md) |
+| 40 | Metaclasses & Class Creation | [40. Metaclasses & Class Creation.md](40.%20Metaclasses%20%26%20Class%20Creation.md) |
+| 41 | Threads, Processes & Safe Concurrency | [41. Threads, Processes & Safe Concurrency.md](41.%20Threads%2C%20Processes%20%26%20Safe%20Concurrency.md) |
+| 42 | Profiling, Memory & Performance | [42. Profiling, Memory & Performance.md](42.%20Profiling%2C%20Memory%20%26%20Performance.md) |
+| 43 | Imports, Bytecode & Introspection | [43. Imports, Bytecode & Introspection.md](43.%20Imports%2C%20Bytecode%20%26%20Introspection.md) |
+| 44 | Pattern Matching & Declarative Dispatch | [44. Pattern Matching & Declarative Dispatch.md](44.%20Pattern%20Matching%20%26%20Declarative%20Dispatch.md) |
+| 45 | Structured Async Concurrency | [45. Structured Async Concurrency.md](45.%20Structured%20Async%20Concurrency.md) |
+| 46 | Reliable Networking & Resilience | [46. Reliable Networking & Resilience.md](46.%20Reliable%20Networking%20%26%20Resilience.md) |
+| 47 | Security-Minded Python | [47. Security-Minded Python.md](47.%20Security-Minded%20Python.md) |
+| 48 | Architecture, Plugins & Dependency Injection | [48. Architecture, Plugins & Dependency Injection.md](48.%20Architecture%2C%20Plugins%20%26%20Dependency%20Injection.md) |
+| 49 | Expert Testing & Quality Gates | [49. Expert Testing & Quality Gates.md](49.%20Expert%20Testing%20%26%20Quality%20Gates.md) |
+| 50 | Expert Capstone – Event-Driven System | [50. Expert Capstone – Event-Driven System.md](50.%20Expert%20Capstone%20%E2%80%93%20Event-Driven%20System.md) |
 
 ---
 
