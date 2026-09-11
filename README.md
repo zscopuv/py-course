@@ -10,7 +10,7 @@
 This course takes you from **zero knowledge** to **confident intermediate** Python programmer. Each lesson includes clear explanations, practical code examples, notes, and exercises.
 **Yes, AI has been used** to help create this course, but it’s designed to be a comprehensive learning experience for humans. The content is structured to ensure you understand the concepts and can apply them effectively.
 
-**Total Lessons**: 26
+**Total Lessons**: 35
 
 ---
 
@@ -19,6 +19,7 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 - **Beginner Level** → Available (Lessons 1–8)
 - **Intermediate Beginner Level** → Available (Lessons 9–19)
 - **Intermediate Level** → Available (Lessons 20–26)
+- **Advanced Level** → Available (Lessons 27–35)
 
 ---
 
@@ -66,6 +67,22 @@ This course takes you from **zero knowledge** to **confident intermediate** Pyth
 | 24     | Flask – Templates, Forms & User Interaction        | [24. Flask – Templates, Forms & User Interaction.md](24.%20Flask%20%E2%80%93%20Templates%2C%20Forms%20%26%20User%20Interaction.md) |
 | 25     | APIs (Building & Consuming)                        | [25. APIs (Building & Consuming).md](25.%20APIs%20%28Building%20%26%20Consuming%29.md) |
 | 26     | Automated Testing with pytest                      | [26. Automated Testing with pytest.md](26.%20Automated%20Testing%20with%20pytest.md) |
+
+---
+
+## 📋 Table of Contents - Advanced Level
+
+| Lesson | Topic | File |
+|--------|-------|------|
+| 27 | GUI Applications with CustomTkinter | [27. GUI Applications with CustomTkinter.md](27.%20GUI%20Applications%20with%20CustomTkinter.md) |
+| 28 | Web Scraping with BeautifulSoup | [28. Web Scraping with BeautifulSoup.md](28.%20Web%20Scraping%20with%20BeautifulSoup.md) |
+| 29 | Data Analysis with pandas | [29. Data Analysis with pandas.md](29.%20Data%20Analysis%20with%20pandas.md) |
+| 30 | Data Visualization with Matplotlib | [30. Data Visualization with Matplotlib.md](30.%20Data%20Visualization%20with%20Matplotlib.md) |
+| 31 | Type Hints and Dataclasses | [31. Type Hints and Dataclasses.md](31.%20Type%20Hints%20and%20Dataclasses.md) |
+| 32 | Advanced Object-Oriented Programming | [32. Advanced Object-Oriented Programming.md](32.%20Advanced%20Object-Oriented%20Programming.md) |
+| 33 | Asynchronous Programming with asyncio | [33. Asynchronous Programming with asyncio.md](33.%20Asynchronous%20Programming%20with%20asyncio.md) |
+| 34 | Packaging and Publishing Python Projects | [34. Packaging and Publishing Python Projects.md](34.%20Packaging%20and%20Publishing%20Python%20Projects.md) |
+| 35 | Final Project – Personal Dashboard | [35. Final Project – Personal Dashboard.md](35.%20Final%20Project%20%E2%80%93%20Personal%20Dashboard.md) |
 
 ---
 
